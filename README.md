@@ -21,3 +21,6 @@ Firebase will be a nice solution to store the data.
 
 # Why
 FoodRander enable those non-chinese customer to place an order via show the image, pronunciation and ranking based on their current GPS and localtime.
+
+# Question ?
+Please report to alpha.wong@tuta.io
