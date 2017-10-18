@@ -3,7 +3,11 @@ Student name : WONG CHUN KIU
 
 Student id : 14112109d
 
-University: PolyU HK
+University: The Hong Kong Polytechnic University
+
+Program: 61425 / BA(Hons) in Computing
+
+Supervisor: Prof. YOU Jia Jane
 
 # 2. Index
 <!-- TOC -->
