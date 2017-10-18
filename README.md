@@ -1,4 +1,7 @@
 # FoodRader 🕵🏼‍♀️
+Student name : WONG CHUN KIU
+Student id : 14112109d
+University: PolyU HK
 
 # Objective
 Help foreigner to read the menu.
@@ -22,5 +25,34 @@ Firebase will be a nice solution to store the data.
 # Why
 FoodRander enable those non-chinese customer to place an order via show the image, pronunciation and ranking based on their current GPS and localtime.
 
+# Background
+![Population Aged 5 and Over by Usual Language and Year](https://i.imgur.com/6Oe8YSh.png)
+According to the report from the Hong Kong government that nearing 300,417 residents is majorly using english for their daily [1]. Those residents might not able to speack cantinese. However, they also needed to have lunch and dinner. 
+
+![Population by Year, Usual Spoken Language and Whether Able to Speak Cantonese](https://i.imgur.com/VhXw4bp.png)
+Inside that group, up to 220,000 people cannot specker cantinese. Therefore, it is a huge market for us to explore.
+
+Once if we can active those person in Hong Kong that it will incream the income of the local restaurants.
+
+# Project methodology
+1. Collect the time slot of the user will have a lunch
+  - Interview
+1. Collect the food the daily menu of the target 
+  - Onside
+1. Collect the cantinese
+
+# Resources estimation
+1. 2 weeks for study the front end framework
+2. 2 weeks about the use case study
+3. 1 week about system design
+4. 2 debuging of the product
+5. 1 week user accept test
+6. 1 week new feature based on accept test
+
+# Reference
+1. [Population Aged 5 and Over by Usual Language and Year](http://www.bycensus2016.gov.hk/en/bc-mt.html)
+1. [Population by Year, Usual Spoken Language and Whether Able to Speak Cantonese](http://www.bycensus2016.gov.hk/en/bc-mt.html)
+
 # Question ?
 Please report to alpha.wong@tuta.io
+
