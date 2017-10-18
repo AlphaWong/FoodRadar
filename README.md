@@ -24,16 +24,16 @@ Supervisor: Prof. YOU Jia Jane
 - [10. Design](#10-design)
     - [10.1. Dishes](#101-dishes)
     - [10.2. Drinks](#102-drinks)
-- [11. Reference](#11-reference)
-- [12. UML](#12-uml)
-- [13. Database schema](#13-database-schema)
-- [14. Required tech](#14-required-tech)
-    - [14.1. Front end](#141-front-end)
-    - [14.2. Backend](#142-backend)
-    - [14.3. Database](#143-database)
-    - [14.4. Image storeage](#144-image-storeage)
-- [15. Required tools](#15-required-tools)
-- [16. System architecture](#16-system-architecture)
+- [11. UML](#11-uml)
+- [12. Database schema](#12-database-schema)
+- [13. Required tech](#13-required-tech)
+    - [13.1. Front end](#131-front-end)
+    - [13.2. Backend](#132-backend)
+    - [13.3. Database](#133-database)
+    - [13.4. Image storeage](#134-image-storeage)
+- [14. Required tools](#14-required-tools)
+- [15. System architecture](#15-system-architecture)
+- [16 Reference](#16-reference)
 - [17. Appendix](#17-appendix)
 - [18. Question ?](#18-question-)
 
@@ -92,17 +92,13 @@ Once if we can active those person in Hong Kong that it will incream the income 
 ![Design 1](https://i.imgur.com/bd5Kark.png)
 ## 10.2. Drinks
 ![Design 2](https://i.imgur.com/jsWncQJ.png)
-# 11. Reference
-1. [Population Aged 5 and Over by Usual Language and Year](http://www.bycensus2016.gov.hk/en/bc-mt.html)
-1. [Population by Year, Usual Spoken Language and Whether Able to Speak Cantonese](http://www.bycensus2016.gov.hk/en/bc-mt.html)
-1. [No hablar Cha Chaan Teng lingo](https://www.ovolohotels.com/cha-chaan-teng-lingo/)
 
-# 12. UML
+# 11. UML
 Use case diagram
 
 ![Use case diagram](https://i.imgur.com/RZZYK5e.png)
 
-# 13. Database schema
+# 12. Database schema
 ```json
 {
     "_id": "xxxxx",
@@ -134,26 +130,31 @@ Use case diagram
 }
 ```
 
-# 14. Required tech
-## 14.1. Front end
+# 13. Required tech
+## 13.1. Front end
 [Polymer](https://www.polymer-project.org/about)
 
-## 14.2. Backend
+## 13.2. Backend
 [Firebase](https://firebase.google.com/products/)
 
-## 14.3. Database
+## 13.3. Database
 Type: NoSQL
 
 [Cloud Firestore](https://firebase.google.com/products/firestore/)
 
-## 14.4. Image storeage
+## 13.4. Image storeage
 [Cloud Storage](https://firebase.google.com/products/storage/)
 
-# 15. Required tools
+# 14. Required tools
 [Draw use case diagram](https://yuml.me/diagram/usecase/draw)
 
-# 16. System architecture
+# 15. System architecture
 ![System architecture](https://i.imgur.com/6N55F7A.png)
+
+# 16 Reference
+1. [Population Aged 5 and Over by Usual Language and Year](http://www.bycensus2016.gov.hk/en/bc-mt.html)
+1. [Population by Year, Usual Spoken Language and Whether Able to Speak Cantonese](http://www.bycensus2016.gov.hk/en/bc-mt.html)
+1. [No hablar Cha Chaan Teng lingo](https://www.ovolohotels.com/cha-chaan-teng-lingo/)
 
 # 17. Appendix
 ```
