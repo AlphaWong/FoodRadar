@@ -1,4 +1,4 @@
-# FoodRader 🕵
+# FoodRader 🕵🏼‍♀️
 Student name : WONG CHUN KIU
 
 Student id : 14112109d
@@ -6,7 +6,33 @@ Student id : 14112109d
 University: PolyU HK
 
 # Index
+<!-- TOC -->
 
+- [FoodRader 🕵🏼‍♀️](#foodrader-🕵🏼‍♀️)
+- [Index](#index)
+- [Objective](#objective)
+- [What](#what)
+- [How](#how)
+- [Why](#why)
+- [Background](#background)
+- [Project methodology](#project-methodology)
+- [Resources estimation](#resources-estimation)
+- [Design](#design)
+    - [Dishes](#dishes)
+    - [Drinks](#drinks)
+- [Reference](#reference)
+- [UML](#uml)
+- [Database schema](#database-schema)
+- [Required tech](#required-tech)
+    - [Front end](#front-end)
+    - [Backend](#backend)
+    - [Database](#database)
+    - [Image storeage](#image-storeage)
+- [Required tools](#required-tools)
+- [Appendix](#appendix)
+- [Question ?](#question-)
+
+<!-- /TOC -->
 
 # Objective
 Help foreigner to read the menu.
