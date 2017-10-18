@@ -49,9 +49,15 @@ Once if we can active those person in Hong Kong that it will incream the income 
 5. 1 week user accept test
 6. 1 week new feature based on accept test
 
+# Design
+## Dishes
+![Design 1](https://i.imgur.com/bd5Kark.png)
+## Drinks
+![Design 2](https://i.imgur.com/jsWncQJ.png)
 # Reference
 1. [Population Aged 5 and Over by Usual Language and Year](http://www.bycensus2016.gov.hk/en/bc-mt.html)
 1. [Population by Year, Usual Spoken Language and Whether Able to Speak Cantonese](http://www.bycensus2016.gov.hk/en/bc-mt.html)
+1. [No hablar Cha Chaan Teng lingo](https://www.ovolohotels.com/cha-chaan-teng-lingo/)
 
 # Question ?
 Please report to alpha.wong@tuta.io
