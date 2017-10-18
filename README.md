@@ -1,7 +1,12 @@
-# FoodRader 🕵🏼‍♀️
+# FoodRader 🕵
 Student name : WONG CHUN KIU
+
 Student id : 14112109d
+
 University: PolyU HK
+
+# Index
+
 
 # Objective
 Help foreigner to read the menu.
@@ -36,18 +41,20 @@ Once if we can active those person in Hong Kong that it will incream the income 
 
 # Project methodology
 1. Collect the time slot of the user will have a lunch
-  - Interview
+    - Interview
 1. Collect the food the daily menu of the target 
-  - Onside
-1. Collect the cantinese
-
+    - Onside
+1. Collect the cantinese jyutping
+    - Crowdsource
+    - [Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)
+    
 # Resources estimation
-1. 2 weeks for study the front end framework
-2. 2 weeks about the use case study
-3. 1 week about system design
-4. 2 debuging of the product
-5. 1 week user accept test
-6. 1 week new feature based on accept test
+- 2 weeks for study the front end framework
+- 2 weeks about the use case study
+- 1 week about system design
+- 2 debuging of the product
+-  1 week user accept test
+- 1 week new feature based on accept test
 
 # Design
 ## Dishes
@@ -58,6 +65,74 @@ Once if we can active those person in Hong Kong that it will incream the income 
 1. [Population Aged 5 and Over by Usual Language and Year](http://www.bycensus2016.gov.hk/en/bc-mt.html)
 1. [Population by Year, Usual Spoken Language and Whether Able to Speak Cantonese](http://www.bycensus2016.gov.hk/en/bc-mt.html)
 1. [No hablar Cha Chaan Teng lingo](https://www.ovolohotels.com/cha-chaan-teng-lingo/)
+
+# UML
+Use case diagram
+
+![Use case diagram](https://i.imgur.com/RZZYK5e.png)
+
+# Database schema
+```json
+{
+    "_id": "xxxxx",
+    "userId": "xxxxx",
+    "star": [
+        {
+            "userId": "userId0",
+            "timeStamp": "9999999999",
+        },
+        {
+            "userId": "userId1",
+            "timeStamp": "9999999999",
+        }
+    ],
+    "description": "xxxxxx",
+    "thumbnail": [
+        "thumbnailURI0",
+        "thumbnailURI1",
+        "thumbnailURI2",
+    ],
+    "gps": {
+        "lat": "99.99",
+        "long": "99.99",
+    },
+    "english": "rice",
+    "jyutping": "faan",
+    "cantonese": "飯",
+    "type": "dish",
+}
+```
+
+# Required tech
+## Front end
+[Polymer](https://www.polymer-project.org/about)
+
+## Backend
+[Firebase](https://firebase.google.com/products/)
+
+## Database
+Type: NoSQL
+
+[Cloud Firestore](https://firebase.google.com/products/firestore/)
+
+## Image storeage
+[Cloud Storage](https://firebase.google.com/products/storage/)
+
+# Required tools
+[Draw use case diagram](https://yuml.me/diagram/usecase/draw)
+
+# Appendix
+```
+// Use case diagram
+[Customer]-(Sign In)
+[Customer]-(Upload a dish)
+(Upload a dish)<(Upload a timestamp)
+(Upload a dish)<(Upload GPS)
+(Upload a dish)<(Add star)
+(Upload a dish)<(Upload image)
+[Customer]-(Star a dish)
+[Customer]-(Play a voice record)
+```
 
 # Question ?
 Please report to alpha.wong@tuta.io
