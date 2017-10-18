@@ -29,6 +29,7 @@ University: PolyU HK
     - [Database](#database)
     - [Image storeage](#image-storeage)
 - [Required tools](#required-tools)
+- [System architecture](#system-architecture)
 - [Appendix](#appendix)
 - [Question ?](#question-)
 
@@ -146,6 +147,9 @@ Type: NoSQL
 
 # Required tools
 [Draw use case diagram](https://yuml.me/diagram/usecase/draw)
+
+# System architecture
+![System architecture](https://i.imgur.com/6N55F7A.png)
 
 # Appendix
 ```
