@@ -18,10 +18,10 @@ Targeted user should be an english speaker.
 Help foreigner to read the menu.
 
 # Acknowledgments
-In order to initialize our current data set, [Milan Rajbhandari](gnumilanix@gmail.com) contributes a lot of photo about the dish as well as the menu. It offers the basic data set for the project database. Also, thanks the employee in Lalamove help me to test the idea. Meanwhile, Progressive web application will be adopted to FoodRader as it enable developer create a mobile friendly, low network consumption and Google chrome native support ( Both android and desktop ) application. Also, It should able to breakdown the current language issue between when non-cantonese person to place a order in Hong Kong. 
+In order to initialize our current data set, [Milan Rajbhandari](gnumilanix@gmail.com) contributes a lot of photo about the dish as well as the menu. It offers the basic data set for the project database. Also, thanks the employee in Lalamove help me to test the idea.  
 
 # Abstract
-FoodFader aims to help the foreigner to place order in cantonese 
+FoodFader aims to help the foreigner to place order in Cantonese. Meanwhile, Progressive web application will be adopted to FoodRader as it enable developer create a mobile friendly, low network consumption and Google chrome native support ( Both android and desktop ) application. Also, It should able to breakdown the current language issue between when non-Cantonese person to place a order in Hong Kong. 
 
 # What
 Hong Kong is an international city. Residents in Hong Kong might not be able to read chinese. 
@@ -35,7 +35,7 @@ The mission of FoodRader would like to help non-local person to place an order i
 # How
 In order to build a self service order placing application, crowd sourcing will become our standpoint. As many of educated local people able to understand the context of menu in local restaurant. Also, selfie seems become a local well known culture that they willing to post their photo to share network that we just need to offer a share button which will draw their attention.
 
-Meaning we can collect an image, cantonese pronounce and GPS from those customers as wall as the feedback with each dish. 
+Meaning we can collect an image, Cantonese pronounce and GPS from those customers as wall as the feedback with each dish. 
 
 Mobile will be our primary platform to serve those customers.
 
@@ -46,7 +46,12 @@ FoodRander enables those non-chinese customer to place an order via show the ima
 
 # Background
 ![Population Aged 5 and Over by Usual Language and Year](https://i.imgur.com/6Oe8YSh.png)
-According to the report from the Hong Kong government that nearing 300,417 residents is majorly using english for their daily [1]. Those residents might not able to speak cantonese. However, they also needed to have lunch and dinner. 
+According to the report from the Hong Kong government that nearing 300,417 residents is majorly using english for their daily [1]. Those residents might not able to speak Cantonese. However, they also needed to have lunch and dinner. 
+
+![Population by Year, Usual Spoken Language and Whether Able to Speak Cantonese](https://i.imgur.com/VhXw4bp.png)
+Inside that group, up to 220,000 people cannot speck Cantonese. Therefore, it is a huge market for us to explore.
+
+Once if we can active those person in Hong Kong that it will incream the income of the local restaurants.
 
 ## Related Works
 ### Google map local guide program
@@ -58,18 +63,13 @@ According to the report from the Hong Kong government that nearing 300,417 resid
 
 ![openrice.com screen shot](https://i.imgur.com/OMKvc6F.png)
 
-![Population by Year, Usual Spoken Language and Whether Able to Speak Cantonese](https://i.imgur.com/VhXw4bp.png)
-Inside that group, up to 220,000 people cannot speck cantonese. Therefore, it is a huge market for us to explore.
-
-Once if we can active those person in Hong Kong that it will incream the income of the local restaurants.
-
 # Project methodology
 1. Collect the time slot when the user will have a lunch
     - Interview
     - Start with my workmate ( native english speaker )
 1. Collect the food the daily menu of the target 
     - Onside
-1. Collect the cantonese jyutping
+1. Collect the Cantonese jyutping
     - Crowd sourcing
     - [Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)
 1. [Google Polymer](https://www.polymer-project.org/about) 
