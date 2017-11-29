@@ -51,7 +51,7 @@ According to the report from the Hong Kong government that nearing 300,417 resid
 ![Population by Year, Usual Spoken Language and Whether Able to Speak Cantonese](https://i.imgur.com/VhXw4bp.png)
 Inside that group, up to 220,000 people cannot speck Cantonese. Therefore, it is a huge market for us to explore.
 
-Once if we can active those person in Hong Kong that it will incream the income of the local restaurants.
+Once we can active those persons in Hong Kong that it will increase the income of the local restaurants.
 
 ## Related Works
 ### Google map local guide program
