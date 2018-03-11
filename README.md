@@ -1,4 +1,4 @@
-# FoodRader 🕵
+# FoodRadar 🕵
 Student name : WONG CHUN KIU
 
 Student id : 14112109d
@@ -21,7 +21,7 @@ Help foreigner to read the menu.
 In order to initialize our current data set, [Milan Rajbhandari](gnumilanix@gmail.com) contributes a lot of photo about the dish as well as the menu. It offers the basic data set for the project database. Also, thanks the employee in Lalamove help me to test the idea.  
 
 # Abstract
-FoodFader aims to help the foreigner to place order in Cantonese. Meanwhile, Progressive web application will be adopted to FoodRader as it enable developer create a mobile friendly, low network consumption and Google chrome native support ( Both android and desktop ) application. Also, It should able to breakdown the current language issue between when non-Cantonese person to place a order in Hong Kong. 
+FoodFadar aims to help the foreigner to place order in Cantonese. Meanwhile, Progressive web application will be adopted to FoodRadar as it enable developer create a mobile friendly, low network consumption and Google chrome native support ( Both android and desktop ) application. Also, It should able to breakdown the current language issue between when non-Cantonese person to place a order in Hong Kong. 
 
 # What
 Hong Kong is an international city. Residents in Hong Kong might not be able to read chinese. 
@@ -30,7 +30,7 @@ In order to have a lunch / dinner in local restaurant, they always need a local 
 
 The goal of this application is to automate that translation process and reduce the human resources. 
 
-The mission of FoodRader would like to help non-local person to place an order including read, pronounce and imagine the dish.
+The mission of FoodRadar would like to help non-local person to place an order including read, pronounce and imagine the dish.
 
 # How
 In order to build a self service order placing application, crowd sourcing will become our standpoint. As many of educated local people able to understand the context of menu in local restaurant. Also, selfie seems become a local well known culture that they willing to post their photo to share network that we just need to offer a share button which will draw their attention.
@@ -77,7 +77,7 @@ Once we can active those persons in Hong Kong that it will increase the income o
 1. [Firebase](https://firebase.google.com/)
     - Serverless service for project hosting.
 1. [Google Analytics](https://www.google.com/analytics/#?modal_active=none)
-    - Track the user activity in FoodRader.
+    - Track the user activity in FoodRadar.
     
 # Resources estimation
 - 2 weeks for study the front end framework
